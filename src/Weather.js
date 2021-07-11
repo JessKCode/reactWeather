@@ -40,7 +40,7 @@ export default function Weather() {
           <p className="link">
             <a
               rel="noreferrer"
-              href="https://github.com/JessKCode/SheCodes-WeatherApp"
+              href="https://github.com/JessKCode/reactWeather"
               target="_blank"
             >
               Open-source code
